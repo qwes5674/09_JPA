@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.2">
+    <persistence-unit name="jpatest">
+        <properties></properties>
+
+
+    <!-- DML 구문 수행시 자동으로 스키마 생성 -->
+    <!--
+    개발 초기 단계
+    create : 실행마다 DDL 실행 ( 기존 테이블 모두 drop)
+    create-drop : 실행마다 DDl 실행,

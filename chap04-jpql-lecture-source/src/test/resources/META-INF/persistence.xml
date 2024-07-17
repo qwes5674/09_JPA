@@ -14,7 +14,8 @@
 <!--        <class>com.ohgiraffers.section06.join.Menu</class>-->
 <!--        <class>com.ohgiraffers.section07.subquery.Category</class>-->
 <!--        <class>com.ohgiraffers.section07.subquery.Menu</class>-->
-            <class>com.ohgiraffers.section08.namedquery.Menu</class>
+<!--        <class>com.ohgiraffers.section08.namedquery.Menu</class>-->
+        <class>com.ohgiraffers.section09.nativequery.Menu</class>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/menudb"/>

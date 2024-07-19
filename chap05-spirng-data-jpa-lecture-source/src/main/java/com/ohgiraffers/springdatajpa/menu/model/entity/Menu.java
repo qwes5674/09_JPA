@@ -8,8 +8,9 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
-@Setter
 @ToString
+//@Builder(toBuilder = true)
+@Setter
 public class Menu {
 
     @Id
